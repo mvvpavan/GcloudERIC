@@ -1,4 +1,4 @@
-package com.eric.app;
+package com.eric.hello;
 
 /**
  * Hello world!
